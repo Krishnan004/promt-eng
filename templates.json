@@ -1,0 +1,18 @@
+[
+  {
+    "id": "21c2e53c-461b-4dd8-9b4e-49ac310ca6da",
+    "name": "greeting-template",
+    "description": "Simple greeting prompt",
+    "template": "Write a friendly greeting to {{name}}",
+    "examples": [],
+    "createdAt": "2025-11-01T13:28:40.379Z"
+  },
+  {
+    "id": "ac52a5b9-013f-47e3-9510-02a4c4ab61fa",
+    "name": "greeting-template",
+    "description": "Simple greeting prompt",
+    "template": "Write a friendly greeting to krishnan",
+    "examples": [],
+    "createdAt": "2025-11-01T13:28:56.895Z"
+  }
+]
